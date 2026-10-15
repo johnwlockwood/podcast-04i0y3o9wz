@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Output to Outcome Book Club</title>
+    <link>https://johnwlockwood.github.io/podcast-04i0y3o9wz/</link>
+    <atom:link href="https://johnwlockwood.github.io/podcast-04i0y3o9wz/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A book-club series of AI-generated two-host deep dives, one per section of Mik Kersten's Output to Outcome: An Operating Model for the Age of AI, each built from an IntuiBloom knowledge graph.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2026 16:47:18 -0700</lastBuildDate>
+    <itunes:author>John Lockwood</itunes:author>
+    <itunes:summary>A book-club series of AI-generated two-host deep dives, one per section of Mik Kersten's Output to Outcome: An Operating Model for the Age of AI, each built from an IntuiBloom knowledge graph.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://johnwlockwood.github.io/podcast-04i0y3o9wz/cover.jpg"/>
+    <image>
+      <url>https://johnwlockwood.github.io/podcast-04i0y3o9wz/cover.jpg</url>
+      <title>Output to Outcome Book Club</title>
+      <link>https://johnwlockwood.github.io/podcast-04i0y3o9wz/</link>
+    </image>
+    <item>
+      <title>Output to Outcome, Ch 0: When AI Removes the Bottleneck: From Outputs to Outcomes</title>
+      <description>Episode 1 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 0, "Foundations," comes after the Preface, Prompt and Introduction and before Part I's three models: the Product Operating Model, the Outcome Loop and the Outcome Tree. Kersten argues that AI is making knowledge output nearly free, which moves the bottleneck from producing work to the organization itself. We cover the productivity paradox, the Theory of Constraints (and the car-plant paint shop), the earlier shift to software as a service, Carlota Perez's model of technological revolutions and her "golden age," the "three million Shakespeare plays" problem, and Kersten's account of Cognition's weekly outcome loop, where it throws away much of its code. We also cover the risk he warns about: AI's gains piling up in a few giants. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/I8l7ns_g5OdvCAV1MWTNSnFsGyeJuJEj5a3JcMzyHIU=</description>
+      <itunes:summary>Episode 1 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 0, "Foundations," comes after the Preface, Prompt and Introduction and before Part I's three models: the Product Operating Model, the Outcome Loop and the Outcome Tree. Kersten argues that AI is making knowledge output nearly free, which moves the bottleneck from producing work to the organization itself. We cover the productivity paradox, the Theory of Constraints (and the car-plant paint shop), the earlier shift to software as a service, Carlota Perez's model of technological revolutions and her "golden age," the "three million Shakespeare plays" problem, and Kersten's account of Cognition's weekly outcome loop, where it throws away much of its code. We also cover the risk he warns about: AI's gains piling up in a few giants. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/I8l7ns_g5OdvCAV1MWTNSnFsGyeJuJEj5a3JcMzyHIU=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch0-foundations-v2.mp3" length="19608598" type="audio/mpeg"/>
+      <guid isPermaLink="false">34ed7b58-6264-45a9-85c8-ad8b5f8753ca</guid>
+      <pubDate>Thu, 15 Oct 2026 15:38:35 -0700</pubDate>
+      <itunes:duration>20:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
