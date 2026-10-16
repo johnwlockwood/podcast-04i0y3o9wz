@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-04i0y3o9wz/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A book-club series of AI-generated two-host deep dives, one per section of Mik Kersten's Output to Outcome: An Operating Model for the Age of AI, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:47:18 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:22:42 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>A book-club series of AI-generated two-host deep dives, one per section of Mik Kersten's Output to Outcome: An Operating Model for the Age of AI, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>Output to Outcome Book Club</title>
       <link>https://johnwlockwood.github.io/podcast-04i0y3o9wz/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 1: AI Won't Fix Your Company If the Bottleneck Isn't Code</title>
+      <description>Episode 2 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 1, "Product Operating Model," opens Part I, "Outcome Management," and is the first of the book's three foundational models, before the Outcome Loop (Ch 2) and the Outcome Tree (Ch 3). Kersten argues that AI's tenfold boost to coding won't help companies whose bottleneck sits elsewhere. In his State of the Industry data, only 8% of the time from idea to running software went to building it. We cover the Theory of Constraints and the jammed on-ramp, the history from McCallum's org chart to Gantt charts, Snowden's Cynefin framework and when to run a project versus a product, irreducible uncertainty and where AI can augment but not replace decisions, Reinertsen's life cycle profitability, the operating-model dysfunctions in Kersten's reports, and Commonwealth Bank of Australia's path from project to product to AI-native engineering. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/AL1vJA_m_BgKI2qgGiDOYX0qCm-QLrCkQtXXUnDLVzY=</description>
+      <itunes:summary>Episode 2 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 1, "Product Operating Model," opens Part I, "Outcome Management," and is the first of the book's three foundational models, before the Outcome Loop (Ch 2) and the Outcome Tree (Ch 3). Kersten argues that AI's tenfold boost to coding won't help companies whose bottleneck sits elsewhere. In his State of the Industry data, only 8% of the time from idea to running software went to building it. We cover the Theory of Constraints and the jammed on-ramp, the history from McCallum's org chart to Gantt charts, Snowden's Cynefin framework and when to run a project versus a product, irreducible uncertainty and where AI can augment but not replace decisions, Reinertsen's life cycle profitability, the operating-model dysfunctions in Kersten's reports, and Commonwealth Bank of Australia's path from project to product to AI-native engineering. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/AL1vJA_m_BgKI2qgGiDOYX0qCm-QLrCkQtXXUnDLVzY=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch1-product-operating-model.mp3" length="25301620" type="audio/mpeg"/>
+      <guid isPermaLink="false">ea4c628a-fecc-4cf2-ac56-5d6493b9e5d7</guid>
+      <pubDate>Thu, 15 Oct 2026 17:22:30 -0700</pubDate>
+      <itunes:duration>26:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 0: When AI Removes the Bottleneck: From Outputs to Outcomes</title>
       <description>Episode 1 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 0, "Foundations," comes after the Preface, Prompt and Introduction and before Part I's three models: the Product Operating Model, the Outcome Loop and the Outcome Tree. Kersten argues that AI is making knowledge output nearly free, which moves the bottleneck from producing work to the organization itself. We cover the productivity paradox, the Theory of Constraints (and the car-plant paint shop), the earlier shift to software as a service, Carlota Perez's model of technological revolutions and her "golden age," the "three million Shakespeare plays" problem, and Kersten's account of Cognition's weekly outcome loop, where it throws away much of its code. We also cover the risk he warns about: AI's gains piling up in a few giants. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/I8l7ns_g5OdvCAV1MWTNSnFsGyeJuJEj5a3JcMzyHIU=</description>
