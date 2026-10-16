@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-04i0y3o9wz/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A book-club series of AI-generated two-host deep dives, one per section of Mik Kersten's Output to Outcome: An Operating Model for the Age of AI, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:22:42 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:11:42 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>A book-club series of AI-generated two-host deep dives, one per section of Mik Kersten's Output to Outcome: An Operating Model for the Age of AI, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>Output to Outcome Book Club</title>
       <link>https://johnwlockwood.github.io/podcast-04i0y3o9wz/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 2: The Outcome Loop: Constraints, AI Surplus, and the Next Bottleneck</title>
+      <description>Episode 3 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 2, "The Outcome Loop," sits in the middle of Part I, "Outcome Management." It builds on Chapter 1's Product Operating Model, sets up Chapter 3's Outcome Tree, and is the core model that the book's seven shifts in Part II build on. Kersten defines the loop as the feedback system that connects inputs (strategy and budget) to outputs (activities and artifacts) to outcomes (employee, customer and business) and back again. We cover production elasticity and Amazon, the lineage from outcome-based healthcare and Jobs to Be Done to OKRs, Kersten's own path from PhD research to Tasktop, key results versus KPIs, the TeenWellness worked example, why the loop is a hypothesis test, broken telemetry and the "counting procedures" trap, applying the Theory of Constraints, and how the VS Code team's bottleneck moved from delivery to onboarding to code review as AI took over more of the output. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/gCUMm1v5ojOoiE32udczXYQRC4iQinUtoSavvxJygLM=</description>
+      <itunes:summary>Episode 3 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 2, "The Outcome Loop," sits in the middle of Part I, "Outcome Management." It builds on Chapter 1's Product Operating Model, sets up Chapter 3's Outcome Tree, and is the core model that the book's seven shifts in Part II build on. Kersten defines the loop as the feedback system that connects inputs (strategy and budget) to outputs (activities and artifacts) to outcomes (employee, customer and business) and back again. We cover production elasticity and Amazon, the lineage from outcome-based healthcare and Jobs to Be Done to OKRs, Kersten's own path from PhD research to Tasktop, key results versus KPIs, the TeenWellness worked example, why the loop is a hypothesis test, broken telemetry and the "counting procedures" trap, applying the Theory of Constraints, and how the VS Code team's bottleneck moved from delivery to onboarding to code review as AI took over more of the output. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/gCUMm1v5ojOoiE32udczXYQRC4iQinUtoSavvxJygLM=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch2-the-outcome-loop-bookclub.mp3" length="24525052" type="audio/mpeg"/>
+      <guid isPermaLink="false">ab5c76b2-a6fe-4808-9c77-850a3313eec1</guid>
+      <pubDate>Thu, 15 Oct 2026 23:11:41 -0700</pubDate>
+      <itunes:duration>25:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 1: AI Won't Fix Your Company If the Bottleneck Isn't Code</title>
       <description>Episode 2 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 1, "Product Operating Model," opens Part I, "Outcome Management," and is the first of the book's three foundational models, before the Outcome Loop (Ch 2) and the Outcome Tree (Ch 3). Kersten argues that AI's tenfold boost to coding won't help companies whose bottleneck sits elsewhere. In his State of the Industry data, only 8% of the time from idea to running software went to building it. We cover the Theory of Constraints and the jammed on-ramp, the history from McCallum's org chart to Gantt charts, Snowden's Cynefin framework and when to run a project versus a product, irreducible uncertainty and where AI can augment but not replace decisions, Reinertsen's life cycle profitability, the operating-model dysfunctions in Kersten's reports, and Commonwealth Bank of Australia's path from project to product to AI-native engineering. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/AL1vJA_m_BgKI2qgGiDOYX0qCm-QLrCkQtXXUnDLVzY=</description>
